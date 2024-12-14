@@ -83,14 +83,14 @@ content_data = {
             "https://i.ibb.co/bQD9jtk/1.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=AS1J1pnQ1Sk",
+            "https://www.youtube.com/watch?v=wTFMfjdgaO4",
+            "https://www.youtube.com/watch?v=8f2IDOUrzkI"
         ],
         'texts': [
-            "Label 1 관련 첫 번째 텍스트 내용입니다.",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
-            "Label 1 관련 세 번째 텍스트 내용입니다."
+            "유나.",
+            "있지 유나.",
+            "아이돌 유나."
         ]
     },
     labels[1]: {
@@ -100,14 +100,14 @@ content_data = {
             "https://i.ibb.co/GPrh3kD/1.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://www.youtube.com/watch?v=5JcdG5EbgYw",
+            "https://www.youtube.com/watch?v=SFgoK1U3BhM",
+            "https://www.youtube.com/watch?v=gd9UXP7BrvE"
         ],
         'texts': [
-            "Label 2 관련 첫 번째 텍스트 내용입니다.",
-            "Label 2 관련 두 번째 텍스트 내용입니다.",
-            "Label 2 관련 세 번째 텍스트 내용입니다."
+            "김미주.",
+            "아이즈원 김민주.",
+            "배우 김민주."
         ]
     },
     labels[2]: {
@@ -117,14 +117,14 @@ content_data = {
             "https://i.ibb.co/0hxv1Yb/1.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=919NKijA-gw",
+            "https://www.youtube.com/watch?v=SV0vm_FcyAw",
+            "https://www.youtube.com/watch?v=bHnmi46tjcs"
         ],
         'texts': [
-            "Label 3 관련 첫 번째 텍스트 내용입니다.",
-            "Label 3 관련 두 번째 텍스트 내용입니다.",
-            "Label 3 관련 세 번째 텍스트 내용입니다."
+            "이서.",
+            "아이브 이서.",
+            "아이돌 이서."
         ]
     }
 }
