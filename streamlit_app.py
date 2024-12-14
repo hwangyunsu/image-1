@@ -78,7 +78,7 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
+            "https://i.ibb.co/8P2JpW6/3.jpg",
             "https://via.placeholder.com/300?text=Label1_Image2",
             "https://via.placeholder.com/300?text=Label1_Image3"
         ],
