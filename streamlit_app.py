@@ -95,9 +95,9 @@ content_data = {
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://i.ibb.co/mvRLC59/3.jpg1",
+            "https://i.ibb.co/9231zPc/2.jpg",
+            "https://i.ibb.co/GPrh3kD/1.jpg"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
@@ -112,9 +112,9 @@ content_data = {
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://i.ibb.co/r5qr9qn/3.jpg",
+            "https://i.ibb.co/PwmDM7P/2.jpg",
+            "https://i.ibb.co/0hxv1Yb/1.jpg"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
