@@ -79,8 +79,8 @@ content_data = {
     labels[0]: {
         'images': [
             "https://i.ibb.co/8P2JpW6/3.jpg",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://i.ibb.co/829475F/2.jpg",
+            "https://i.ibb.co/bQD9jtk/1.jpg"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
